@@ -1,0 +1,380 @@
+Infraction_Framing,Abbreviated_Infraction_Description,count,cumulative_count,cumulative_percentage
+218 I,Transitar em velocidade superior à máxima permitida em até 20%,1093345,1093345,26.437889476131556
+203 V,"Ultrapassar pela contramão linha de divisão de fluxos opostos, contínua amarela",206200,1299545,31.423957743675953
+230 * V,Conduzir o veículo registrado que não esteja devidamente licenciado,203586,1503131,36.346817560922766
+218 II,Transitar em velocidade superior à máxima permitida em mais de 20% até 50%,182358,1685489,40.75636866244003
+195,Desobedecer às ordens emanadas da autorid compet de trânsito ou de seus agentes,160258,1845747,44.63152544430293
+230 X,Conduzir o veículo com equip obrigatório em desacordo com o estab pelo Contran,154134,1999881,48.35859938392314
+162 I,Dirigir veículo sem possuir CNH/PPD/ACC,141848,2141729,51.788588770997045
+230 XIII,Conduzir o veículo c/ equip do sistema de iluminação e de sinalização alterados,139664,2281393,55.16576742530509
+230 XVIII,"Conduzir o veículo em mau estado de conservação, comprometendo a segurança",135730,2417123,58.447819054566985
+167,Deixar o condutor de usar o cinto segurança,133905,2551028,61.6857408361651
+167,Deixar o passageiro de usar o cinto segurança,94818,2645846,63.97851009412836
+"230, XXIII",Conduzir veíc de transp passag ou carga em desacordo c/ as cond do art 67-C CTB,68070,2713916,65.62449296014071
+230 XXII,"Conduzir o veíc c/ com defeito no sist de iluminação, sinaliz ou lâmpadas queimadas",63557,2777473,67.16134815354671
+230 IX,Conduzir o veículo com equipamento obrigatório ineficiente ou inoperante,61117,2838590,68.63920234514474
+162 V,Dirigir veículo com validade de CNH/PPD vencida há mais de 30 dias,57666,2896256,70.03360880836595
+230 IX,Conduzir o veículo sem equipamento obrigatório,55979,2952235,71.38722236582893
+230 XVI,"Conduzir veíc com vidro total/parcialmente coberto por película, painéis/pintura",55392,3007627,72.72664182982417
+250 I e,"Em mov deix de man aces luz baixa de dia, em rod pis simp sit fora per urb, veíc desp luz rod diur",53958,3061585,74.03138611488801
+230 VI,Conduzir o veículo com qualquer uma das placas sem legibilidade e visibilidade,51201,3112786,75.26946410405648
+165-A,"Rec sub test,ex clin, peric ou proc q perm cert infl alc/sub. psic for art.277",48706,3161492,76.44721115080245
+193,Transitar com o veículo em acostamentos,44286,3205778,77.51807933361754
+252 IV,Dirigir o veíc usando calçado que ñ se firme nos pés/comprometa utiliz pedais,41127,3246905,78.51256056368203
+165-B,"Cond veíc exig hab C, D ou E sem realizar ex toxic prev no § 2º do art 148-A, após 30 dias do venc",37889,3284794,79.42874456265871
+164 c/c 162 I,Permitir posse/condução do veículo a pessoa sem CNH/PPD/ACC,37015,3321809,80.32379459623365
+168,Transportar criança sem observância das normas de segurança estabelecidas p/ CTB,32638,3354447,81.11300553763091
+244 I,"Conduzir motocicleta, motoneta ou ciclomotor sem capacete de segurança",25868,3380315,81.73851287974942
+"252,§ unico",Dirigir veiculo manuseando telefone celular,24326,3404641,82.32673352318437
+202 I,Ultrapassar pelo acostamento,24029,3428670,82.90777248730087
+185 II,Deixar de conservar nas faixas da direita o veículo lento e de maior porte,21801,3450471,83.43493676615992
+193,Transitar com o veículo em marcas de canalização,21287,3471758,83.94967214545778
+244 X,Conduzir motoc/ moton/ ciclom c/ útil capacete de seg c/ viseira/óculos prot em des c/ regul Contran,21164,3492922,84.46143329392679
+230 VII,Conduzir o veículo com característica alterada,20961,3513883,84.96828575249128
+244 II,"Conduzir motocicleta, motoneta e ciclomotor transportando passageiro s/ capacete",19296,3533179,85.43487728154335
+221,Portar no veículo placas de identificação em desacordo c/ especif/modelo Contran,19226,3552405,85.8997761589042
+218 III,Transitar em velocidade superior à máxima permitida em mais de 50%,19168,3571573,86.3632725534352
+187 I,Transitar em local/horário não permitido pela regulamentação - caminhão,17749,3589322,86.79245648011147
+231 V,Transitar com o veículo com excesso de peso PBT/PBTC,17745,3607067,87.22154368383394
+231 VII,Transitar com o veículo com lotação excedente,16760,3623827,87.62681286018721
+230 IV,Conduzir o veículo sem qualquer uma das placas de identificação,16263,3640090,88.02006420953286
+231 II c,Transitar c/veíc derraman/lançando/arrastando objeto possa acarretar risco acidente,15789,3655879,88.40185388885517
+165,Dirigir sob a influência de álcool,15757,3671636,88.7828697845472
+181 VII,Estacionar nos acostamentos,14856,3686492,89.14209883489947
+231 VI,Transitar em desacordo c/ autorização expedida p/veículo c/ dimensões excedentes,14245,3700737,89.48655345406131
+"252,§ unico",Dirigir veiculo segurando telefone celular,13768,3714505,89.81947386098446
+230 XII,Conduzir o veículo com equipamento ou acessório proibido,13583,3728088,90.1479208312951
+230 XIV,Conduzir veíc c/ registrador instan inalt de velocidade/tempo viciado/defeituoso,13168,3741256,90.46633279515069
+235,Conduzir carga nas partes externas do veículo,12911,3754167,90.7785303092257
+162 III,Dirigir veículo com CNH de categoria diferente da do veículo,12126,3766293,91.07174594362067
+192,Deixar guardar dist segurança lat/front entre seu veíc e demais e ao bordo pista,12039,3778332,91.36285785377085
+186 I,Transitar pela contramão de direção em via com duplo sentido de circulação,11509,3789841,91.64115397254471
+169,Dirigir sem atenção ou sem os cuidados indispensáveis à segurança,10886,3800727,91.90438549126677
+181 V,Estacionar na pista de rolamento das rodovias,10520,3811247,92.15876685971762
+230 XI,Conduzir o veículo com descarga livre,10473,3821720,92.41201173346153
+185 I,Deixar de conservar o veículo na faixa a ele destinada pela sinalização de regul,10403,3832123,92.66356395551422
+204,"Deixar de parar no acostamento à direita, p/ cruzar pista ou entrar à esquerda",10243,3842366,92.91124725941555
+207,Executar operação de conversão à esquerda em local proibido pela sinalização,9319,3851685,93.1365875609929
+164 c/c 162 V,Permitir posse/condução do veíc a pessoa com CNH/PPD vencida há mais de 30 dias,9273,3860958,93.36081554860172
+162 VI,Dirigir veículo sem usar lentes corretoras de visão,9269,3870227,93.58494681325675
+196,"Deixar de indicar c/ antec, med gesto de braço/luz indicadora, mudança de faixa",8265,3878492,93.78480061651211
+250 I b,"Em movimento de dia, deixar de manter acesa luz baixa sob chuva, neblina ou cerração",7601,3886093,93.96859840943938
+237,Trans c/veíc desac c/especificação/falta de inscr/simbologia necessária identif,7566,3893659,94.15154987652106
+186 II,Transitar pela contramão de direção em via c/ sinalização de regul sentido único,7537,3901196,94.33380010218781
+220 II,Deixar de reduzir a veloc onde o trânsito esteja sendo controlado pelo agente,7082,3908278,94.50504809186165
+162 II,Dirigir veículo com CNH/PPD/ACC com suspensão do direito de dirigir,6804,3915082,94.66957383624755
+209-A,Evadir-se da cobrança pelo uso de rodovias e viasurbanas para nao efetuar seu pagamento,6636,3928354,94.99050059690153
+191,Forçar passagem entre veícs trans sent opostos na iminência realiz ultrapassagem,6636,3928354,94.99050059690153
+232,Conduzir veículo sem os documentos de porte obrigatório referidos no CTB,5853,3934207,95.13203045902537
+206 III,Executar operação de retorno passando por cima de canteiro de divisor de pista,5726,3939933,95.2704893673666
+208,Avançar o sinal de parada obrigatória,5298,3945231,95.39859891965297
+206 I,Executar operação de retorno em locais proibidos pela sinalização,4919,3950150,95.51754397206834
+181 XIX,Estacionar o veículo em locais e horários de estacionamento e parada proibida pela sinalização,4871,3955021,95.63532834903832
+199,"Ultrapassar pela direita, salvo qdo veíc da frente der sinal p/ entrar esquerda",4720,3959741,95.74946143450296
+189,Deixar de dar passagem a veíc de polícia em serviço de urgência devid identif,4704,3964445,95.86320762815247
+244 X,Conduzir motoc/ moton/ ciclom c/ utilização de capacete de segurança s/ viseira/óculos de proteção,4516,3968961,95.97240784297415
+252 VI,Dirigir veículo utilizando-se de telefone celular,4500,3973461,96.08122116598071
+231 IV,Transitar c/ veíc e/ou carga c/ dimensões superiores limite legal s/ autorização,4430,3977891,96.18834183729604
+230 II,Conduzir o veículo transportando passageiros em compartimento de carga,4306,3982197,96.29246409704407
+182-V,Parar na pista de rolamento das rodovias,4272,3986469,96.39576421168495
+208,"Avançar o sinal vermelho do semáforo, exc onde houver sinaliz que perm livre conv à direita",4131,3990600,96.49565484220496
+163 c/c 162 I,Entregar veículo a pessoa sem CNH/PPD/ACC,4053,3994653,96.5936593751262
+230 XXI,Conduzir o veíc de carga c/ falta inscrição da tara e demais previstas no CTB,3883,3998536,96.68755318251162
+193,Transitar com o veículo em canteiros centrais/divisores de pista de rolamento,3822,4002358,96.77997196485184
+181 VIII,Estacionar ao lado ou sobre canteiro central/divisores de pista de rolamento,3545,4005903,96.86569268264256
+181 VIII,Estacionar no passeio,3496,4009399,96.95022854424941
+244 XI,Conduzir motoc/ moton/ ciclom transp pass c/ cap seg c/ viseira/óculos prot em des c/ regul Contran,3222,4012621,97.0281388835221
+181 XVIII,Estacionar em local/horário proibido especificamente pela sinalização,3197,4015818,97.10544470433365
+230 XI,Conduzir o veículo com silenciador de motor defeituoso/deficiente/inoperante,3101,4018919,97.18042917425439
+198,Deixar de dar passagem pela esquerda quando solicitado,3077,4021996,97.25483330645241
+227 II,Usar buzina prolongada e sucessivamente a qualquer pretexto,3029,4025025,97.32807676320505
+164 c/c 162 III,Permitir posse/condução veíc a pessoa com CNH categoria diferente da do veículo,3007,4028032,97.40078824371186
+203 IV,Ultrapassar pela contramão veíc parado em fila junto qq impedimento à circulação,2998,4031030,97.47328209757266
+187 I,Transitar em local/horário não permitido pela regul estabelecida pela autoridade,2611,4033641,97.53641800565491
+230 I,Conduzir o veículo com o lacre de identificação violado/falsificado,2568,4036209,97.59851414198397
+230 XV,Conduzir c/ inscr/adesivo/legenda/símbolo afixado pára-brisa e extensão traseira,2536,4038745,97.65983649468278
+250 I d,"Em movimento de dia, deixar de manter acesa luz baixa de motocicletas/motonetas/ciclomotores",2369,4041114,97.71712066406111
+252 V,"Dirigir o veículo com apenas uma das mãos, exceto quando permitido pelo CTB",2187,4043301,97.7700039390423
+231 X,Transitar com o veículo excedendo a CMT acima de 1.000 kg,2175,4045476,97.82259704516211
+196,"Deixar de indicar c/ antec, med gesto de braço/luz indicadora, mudança direção",2107,4047583,97.87354586106764
+250 I a,"Em movimento, deixar de manter acesa a luz baixa durante à noite",2104,4049687,97.9244221347578
+203 III,Ultrapassar pela contramão nas pontes,2025,4051712,97.97338813011075
+244 V,Conduzir motocicleta/motoneta/ciclomotor transportando criança menor de 10 anos de idade,1971,4053683,98.02104836558762
+231 II a,Transitar com veículo derramando a carga que esteja transportando,1952,4055635,98.06824916703401
+197,Deixar de deslocar c/antecedência veíc p/ faixa mais à direita qdo for manobrar,1938,4057573,98.11511143814216
+181 XIII,Estacionar no ponto de embarque/desembarque de passageiros transporte coletivo,1914,4059487,98.16139337152762
+181 XVII,Estacionar em desacordo com a regulamentação especificada pela sinalização,1877,4061364,98.20678061759057
+209,Transpor bloqueio viário com ou sem sinalização ou dispositivos auxiliares,1823,4063187,98.25086210377745
+253-A,"Usar qq veiculo para, delib, pertubar circulação na via sem aut do orgão",1596,4064783,98.2894545623371
+181 VIII,Estacionar ao lado ou sobre gramado ou jardim público,1543,4066326,98.32676544175912
+231 VIII,Transitar efetuando transporte remunerado de pessoas qdo nao licenciado p/esse fim,1482,4067808,98.36260129613595
+252 I,Dirigir o veículo com o braço do lado de fora,1473,4069281,98.39821952386674
+210,Transpor bloqueio viário policial,1452,4070733,98.4333299560902
+163 c/c 162 V,Entregar veículo a pessoa com CNH/PPD vencida há mais de 30 dias,1451,4072184,98.46841620757519
+181 VIII,Estacionar ao lado ou sobre marcas de canalização,1445,4073629,98.50335737462952
+244 XI,Conduzir motoc/ moton/ ciclom transp pass c/ capacete de segurança s/ viseira/óculos de proteção,1433,4075062,98.53800837282249
+211,"Ultrapassar veículos motorizados em fila, parados em razão de qualquer obstáculo",1417,4076479,98.57227247920034
+184 III,Transitar na faixa ou via exclusiva regulam. p/ transp. públ. coletivo passageiro,1403,4077882,98.60619805523993
+231 VI,"Transitar com autorização vencida, expedida p/ veículo c/ dimensões excedentes",1332,4079214,98.63840679884987
+180,Ter seu veículo imobilizado na via por falta de combustível,1267,4080481,98.66904379446082
+164 c/c 162 VI,Permitir posse/condução do veículo a pessoa sem usar lentes corretoras de visão,1212,4081693,98.69835084945726
+248,Transportar em veíc destinado transp passageiros carga excedente desac art.109,1195,4082888,98.7272468319001
+244 VII,Conduzir motocicleta/motoneta/ciclomotor sem segurar o guidom com ambas as mãos,1192,4084080,98.75607027212762
+193,"Transitar com o veículo em calçadas, passeios",1185,4085265,98.784724447186
+164 c/c 162 II,Permitir posse/condução veíc pessoa com CNH/PPD/ACC c/ susp. direito de dirigir,1181,4086446,98.8132818992906
+235,Conduzir pessoas nas partes externas do veículo,1091,4087537,98.83966308493508
+162 II,Dirigir veículo com CNH/PPD/ACC cassada,1088,4088625,98.86597172836422
+175,Utiliz veíc demonst/exibir manobra perigosa mediante arrancada brusca,1084,4089709,98.89218364883958
+181 V,Estacionar na pista de rolamento das estradas,1045,4090754,98.91745252051555
+172,Atirar do veículo objetos ou substâncias,949,4091703,98.9404000413007
+162 VII,Dirigir veículo sem possuir cursos especializados obrigatórios,911,4092614,98.96242869402492
+230 * V,Conduzir o veículo que não esteja registrado,890,4093504,98.98394955124176
+182 X,Parar em local/horário proibidos especificamente pela sinalização,887,4094391,99.00539786624329
+225 I,Deixar de sinalizar a via p/ tornar visível o local qdo permanecer acostamento,882,4095273,99.02672527755256
+230 III,Conduzir o veículo com dispositivo anti-radar,843,4096116,99.04710964006246
+214 I,Deixar de dar preferência a pedestre/veic ñ motorizado na faixa a ele destinada,812,4096928,99.06674439968053
+193,Transitar com o veículo em passarelas,804,4097732,99.08618571339103
+253-A,"Usar qq veiculo para, delib, restringir circulação na via sem aut do orgão",774,4099280,99.12361749650528
+230 VII,Conduzir o veículo com a cor alterada,774,4099280,99.12361749650528
+194,"Transitar em marcha ré, salvo na distância necessária a pequenas manobras",767,4100047,99.14216412289328
+227 I,Usar buzina que não a de toque breve como advertência a pedestre ou condutores,763,4100810,99.16061402632751
+250 III,"Em movimento, deixar de manter a placa traseira iluminada à noite",749,4101559,99.17872539942348
+225 I,Deixar de sinalizar via p/ tornar visível local qdo tiver remover veíc da pista,743,4102302,99.19669168808879
+253-A,"Usar qq veiculo para, delib, interromper circulação na via sem aut do orgão",742,4103044,99.21463379601563
+252 VI,Dirigir o veículo utilizando-se de fones nos ouvidos conec a aparelhagem sonora,721,4103765,99.23206810843513
+238,Recusar-se a entregar CNH/CRV/CRLV/ outros documentos,715,4104480,99.24935733642396
+206 V,Executar retorno c/prejuízo da circulação/segurança ainda que em local permitido,686,4105166,99.26594532299784
+223,Transitar com farol desregulado perturbando visão outro condutor,678,4105844,99.28233986366416
+244 VIII,"Conduzir motocicleta, motoneta e ciclomotor transportando carga incompatível",665,4106509,99.29842005473068
+170,Dirigir ameaçando os demais veículos,664,4107173,99.31447606505877
+211,Ultrapassar veíc motorizados em fila parados em razão de bloqueio viário parcial,658,4107831,99.33038699095617
+231 VIII,Transitar efetuando transporte remunerado de bens qdo nao licenciado p/ esse fim,655,4108486,99.34622537463824
+203 I,Ultrapassar pela contramão nas curvas sem visibilidade suficiente,627,4109113,99.36138669764381
+223,Transitar com o facho de luz alta perturbando visão outro condutor,562,4109675,99.3749762726504
+211,"Ultrapassar veículos motorizados em fila, parados em razão de sinal luminoso",542,4110217,99.38808223288808
+230 VIII,"Conduzir veículo s/ ter sido submetido à inspeção seg veicular, qdo obrigatória",541,4110758,99.40116401238731
+228,Usar no veículo equip c/ som em volume/freqüência não autorizados pelo Contran,522,4111280,99.41378635785607
+203 I,"Ultrapassar pela contramão nos aclives ou declives, sem visibilidade suficiente",509,4111789,99.42609435372502
+215 I a,"Deixar de dar preferência em interseção ñ sinaliz, a veíc circulando por rodovia",484,4112273,99.43779783113284
+193,"Transitar com o veículo em ciclovias, ciclofaixas",447,4112720,99.44860662121816
+162 VI,Dirigir veículo s/ adaptações impostas na concessão/renovação licença conduzir,438,4113158,99.45919778465748
+197,Deixar de deslocar c/antecedência veíc p/ faixa mais à esquerda qdo for manobrar,430,4113588,99.46959550218921
+182-V,Parar na pista de rolamento das estradas,424,4114436,99.49010076839132
+253,Bloquear a via com veículo.,424,4114436,99.49010076839132
+193,"Transitar com o veículo em ajardinamentos, gramados, jardins públicos",422,4114858,99.50030504001549
+216,Entrar/sair área lindeira sem precaução com a segurança de pedestres e veículos,421,4115279,99.51048513090122
+174,Participar na via como condutor em eventos organizados sem permissão,419,4115698,99.52061686031006
+230 XX,Conduzir o veículo sem portar a autorização para condução de escolares,412,4116110,99.53057932454976
+166,Confiar/entregar veíc pess c/ estado físico/psíquico s/ condições dirigir segur,411,4116521,99.54051760805103
+206 IV,"Executar retorno nas interseções, entrando na contramão da via transversal",394,4116915,99.5500448189987
+181 XV,Estacionar na contramão de direção,393,4117308,99.55954784920795
+252 II,Dirigir o veículo transport volume à sua esquerda ou entre os braços e pernas,365,4117673,99.5683738187407
+163 c/c 162 III,Entregar veículo a pessoa com CNH de categoria diferente da do veículo,347,4118020,99.57676453498144
+202 II,Ultrapassar em interseções,345,4118365,99.58510688974526
+184 II,Transitar na faixa/pista da esquerda regul circulação exclusiva determ veículo,344,4118709,99.59342506377065
+215 II,Deixar de dar preferência nas interseções com sinalização de Dê a Preferência,339,4119048,99.60162233410381
+244 III,Conduzir motoc/moton/ciclomotor fazendo malabarismo/equilibrando-se em uma roda,333,4119381,99.6096745200063
+176 V,"Deixar o cond envolvido em acid, de identificar-se policial e prestar inf p/o BO",320,4119701,99.61741235630899
+164 c/c 162 II,Permitir posse/condução do veículo a pessoa com CNH/PPD/ACC cassada,319,4120020,99.62512601187322
+230 XV,Conduzir c/ inscr/adesivo/legenda/símbolo pintado pára-brisa e extensão traseira,316,4120336,99.63276712522213
+193,"Transitar com o veículo em ilhas, refúgios",294,4120630,99.63987626232522
+230 I,Conduzir o veículo com a placa violada/falsificada,291,4120921,99.64691285721298
+206 III,Executar operação de retorno passando por cima de faixa de pedestres,277,4121198,99.65361092176249
+244 VIII,Conduzir motoc/moton/ transportando carga em desacordo c/ § 2º do Art 139-A CTB,269,4121736,99.66662015904639
+162 III,Dirigir veículo com PPD de categoria diferente da do veículo,269,4121736,99.66662015904639
+190,Seguir veículo em serv urgência devid identific p/ alarme sonoro/ilum vermelha,268,4122004,99.6731005969499
+207,Executar operação de conversão à direita em local proibido pela sinalização,266,4122270,99.6795326733765
+165,Dirigir sob a influência de qquer substância psicoativa que deter. dependência,265,4122535,99.68594056906466
+175,Utiliz veíc dem/exibir manob perig med derrap/frenag c/desliz/arrast pneus,263,4122798,99.69230010327593
+170,Dirigir ameaçando os pedestres que estejam atravessando a via pública,258,4123056,99.69853873379498
+220 VI,Deixar de reduzir a velocidade nos trechos em curva de pequeno raio,250,4123306,99.70458391840646
+196,"Deixar de indicar c/ antec, med gesto de braço/luz indicadora, início da marcha",244,4123550,99.71048401858725
+176 I,"Deixar o cond envolvido em acidente, de prestar ou providenciar socorro a vítima",237,4123787,99.71621485359893
+164 c/c 162 III,Permitir posse/condução veíc a pessoa com PPD categoria diferente da do veículo,219,4124006,99.72151043531858
+184 I,Transitar na faixa/pista da direita regul circulação exclusiva determ veículo,211,4124217,99.72661257113067
+209,Deixar de adentrar às áreas destinadas à pesagem de veículos,207,4124424,99.73161798398897
+196,"Deixar de indicar c/ antec, med gesto de braço/luz indicadora, manobra de parar",206,4124630,99.73659921610883
+208,"Avançar o sinal vermelho do semáforo, exc houver sinaliz perm livre conv à direita ,fisc eletrônica",205,4124835,99.74155626749022
+178,"Deixar o condutor envolvido em acidente s/ vítima, de remover o veículo do local",204,4125039,99.7464891381332
+206 II,Executar operação de retorno nas curvas,199,4125238,99.75130110508393
+244 IX,Conduzir motoc/moton/ efetuando transp remun mercadoria desac c/ art 139-A CTB,198,4125436,99.75608889129622
+182 VI,Parar nas marcas de canalização,197,4125633,99.76085249677006
+181 XI,Estacionar ao lado de outro veículo em fila dupla,194,4125827,99.76554356002856
+251 I,"Utilizar o pisca-alerta, exceto em imobilizações ou situações de emergência",188,4126015,99.77008953885638
+181 V,Estacionar na pista de rolamento das vias dotadas de acostamento,187,4126202,99.77461133694577
+172,Abandonar na via objetos ou substâncias,186,4126388,99.77910895429672
+163 c/c 162 II,Entregar veículo a pessoa com CNH/PPD/ACC c/ susp. do direito de dirigir,185,4126573,99.7835823909092
+244 V,Conduzir motoc/moton/ciclom transp criança s/ condição cuidar própria segurança,183,4126756,99.7880074660448
+252 II,Dirigir o veículo transport animais à sua esquerda ou entre os braços e pernas,180,4126936,99.79235999896507
+231 X,Transitar com o veículo excedendo a CMT em até 600 kg,179,4127294,99.8010167033287
+181 X,Estacionar impedindo a movimentação de outro veículo,179,4127294,99.8010167033287
+244 IX,Conduzir motoc/moton/ efet transp remun desac normas ativid profic mototaxistas,177,4127471,99.80529669403361
+176 III,"Deixar o cond envolvido em acidente, de preservar local p/ trab policia/pericia",176,4127647,99.8095525040001
+236,Rebocar outro veículo com cabo flexível ou corda,172,4127991,99.81787067802549
+181 VIII,Estacionar nas ilhas ou refúgios,172,4127991,99.81787067802549
+181 VIII,Estacionar sobre ciclovia ou ciclofaixa,170,4128161,99.8219814035613
+189,Deixar de dar passagem a veíc socorro incêndio/salv serv urgência devid identif,167,4128328,99.82601958688176
+251 II,"Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB",165,4128493,99.83000940872533
+220 XIV,Deixar de reduzir veloc onde haja intensa movimentação de pedestres,164,4128657,99.83397504983046
+220 XII,"Deixar de reduzir a velocidade de forma compatível com a segurança, em declive",159,4128816,99.83781978724335
+179 I,"Fazer ou deixar que se faça reparo em veíc, em rodovia e via de trânsito rápido",152,4128968,99.84149525948713
+244 I,"Conduzir motocicleta, motoneta ou ciclomotor sem vestuário de acordo com normas apr pelo Contran",149,4129117,99.84509818951557
+231 II b,Transitar com veíc derramando/lançando combustível/lubrif que esteja utilizando,139,4129256,99.84845931215955
+181 IV,Estacionar em desacordo com as posições estabelecidas no CTB,138,4129394,99.85179625406508
+163 c/c 162 VI,Entregar o veículo a pessoa sem usar lentes corretoras de visão,137,4129531,99.85510901523217
+164 c/c 162 VII,Permitir posse e condução do veículo por pessoa sem possuir curso especializados obrigatorio,134,4129799,99.86158945313566
+231 II a,Transitar com veículo lançando a carga que esteja transportando,134,4129799,99.86158945313566
+188,"Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito",130,4129929,99.86473294913364
+209-A,"Deixar de efetuar pagamento, pelo uso de rodovias e viasurbanas, na forma estabelecida",123,4130052,99.86770717996248
+231 X,Transitar com o veículo excedendo a CMT entre 601 e 1.000 kg,122,4130174,99.87065723005288
+182 VII,Parar na área de cruzamento de vias,120,4130294,99.87355891866639
+189,Deixar de dar passagem a veíc de operação e fiscalização de trânsito devid ident,119,4130532,99.87931393441652
+239,"Retirar do local veículo legalmente retido para regularização, sem permissão",119,4130532,99.87931393441652
+220 III,Deixar de reduzir a velocidade do veículo ao aproximar-se da guia da calçada,115,4130647,99.8820947193378
+201,"Deixar de guardar a distância lateral de 1,50m ao passar/ultrapassar bicicleta",112,4130871,99.88751120474969
+"253-A, § 1º",Organizar a conduta prevista no caput do art. 253-A,112,4130871,99.88751120474969
+231 IV,Transitar c/ veíc e/ou carga c/ dimensões superiores est p/sinalização s/autoriz,108,4130979,99.89012272450184
+189,Deixar de dar passagem a veíc precedido de batedores devidamente identificados,106,4131085,99.8926858827771
+206 III,"Executar operação de retorno passando por cima de calçada, passeio",104,4131293,99.89771547637385
+220 VIII,Deixar de reduzir a velocidade sob chuva/neblina/cerração/ventos fortes,104,4131293,99.89771547637385
+162 VII,Dirigir veículo sem possuir cursos específicos obrigatórios,103,4131499,99.90269670849369
+220 I,Deixar de reduzir a veloc qdo se aproximar de passeata/aglomeração/desfile/etc,103,4131499,99.90269670849369
+173,Disputar corrida,99,4131598,99.90509060159984
+182 VI,Parar sobre faixa destinada a pedestres,98,4131696,99.90746031396755
+203 IV,Ultrapassar pela contramão veículo parado em fila junto sinal luminoso,96,4131888,99.91210301574915
+215 I a,"Deixar de dar preferência em interseção ñ sinaliz, veíc circulando por rotatória",96,4131888,99.91210301574915
+220 III,Deixar de reduzir a velocidade do veículo ao aproximar-se do acostamento,92,4131980,99.91432764368618
+224,Fazer uso do facho de luz alta dos faróis em vias providas de iluminação pública,90,4132070,99.91650391014632
+206 III,"Executar operação de retorno passando por cima de ilha, refúgio",89,4132248,99.92080808158968
+181 VIII,Estacionar sobre faixa destinada a pedestre,89,4132248,99.92080808158968
+244 VI,"Conduzir motocicleta, motoneta e ciclomotor rebocando outro veículo",88,4132336,99.92293598657292
+174,Promover na via exibição e demonstração de perícia em manobra de veículo s/perm,79,4132415,99.92484626491014
+174,"Participar como condutor exib/demonst perícia em manobra de veic, s/ permissão",76,4132567,99.92852173715391
+220 IV,Deixar de reduzir velocidade do veículo ao aproximar-se interseção ñ sinalizada,76,4132567,99.92852173715391
+220 VII,Deixar de reduzir veloc ao aproximar local sinaliz advert de obras/trabalhadores,75,4132717,99.93214884792081
+176 II,"Deixar o cond envolvido em acid, de adotar provid p/ evitar perigo p/o trânsito",75,4132717,99.93214884792081
+164 c/c 162 VI,Permitir posse/cond veíc s/ adaptações impostas concessão/renovação licença cond,72,4132789,99.93388986108891
+252 III,Dirigir o veículo com incapacidade física ou mental temporária,71,4132931,99.93732352594823
+229,Usar no veíc alarme/aparelho produz som perturbe sossego púb desac norma Contran,71,4132931,99.93732352594823
+182 VI,Parar nos canteiros centrais/divisores de pista de rolamento,68,4132999,99.93896781616255
+181 IX,Estacionar em guia de calçada rebaixada destinada à entrada/saída de veículos,67,4133066,99.94058792563843
+183,Parar sobre faixa de pedestres na mudança de sinal luminoso,66,4133198,99.94377978311329
+163 c/c 162 II,Entregar veículo a pessoa com CNH/PPD/ACC cassada,66,4133198,99.94377978311329
+250 I b,"Em movimento de dia, deixar de manter acesa luz baixa em túneis",64,4133326,99.94687491763436
+206 III,Executar operação de retorno passando por cima de ajardinamento,64,4133326,99.94687491763436
+182 IX,Parar na contramão de direção,63,4133389,99.94839830415646
+206 II,Executar operação de retorno nos aclives ou declives,62,4133451,99.9498975099401
+206 II,Executar operação de retorno nos viadutos,56,4133507,99.95125163129308
+203 IV,Ultrapassar pela contramão veículo parado em fila junto a cruzamento,54,4133561,99.95255739116915
+244 § 2º,Conduzir ciclomotor em rodovia salvo se houver acostamento ou faixa própria,50,4133711,99.95618450193604
+181 I,Estacionar nas esquinas e a menos de 5m do alinhamento da via transversal,50,4133711,99.95618450193604
+206 II,Executar operação de retorno nas pontes,50,4133711,99.95618450193604
+235,Conduzir animais nas partes externas do veículo,49,4133760,99.95736935811989
+182-V,Parar na pista de rolamento das demais vias dotadas acostamento,48,4133808,99.95853003356528
+230 I,Conduzir o veículo com qualquer outro elem de identificação violado/falsificado,46,4133900,99.9607546615023
+203 III,Ultrapassar pela contramão nos viadutos,46,4133900,99.9607546615023
+181 XIV,Estacionar nas pontes,44,4133944,99.96181861399393
+230 I,Conduzir o veículo com a inscrição do chassi violada/falsificada,43,4133987,99.9628583857471
+220 XIV,Deixar de reduzir veloc na proxim estação embarque/desembarque passageiros,42,4134029,99.96387397676183
+189,Deixar de dar passagem a ambulância em serviço de urgência devid identificada,41,4134070,99.9648653870381
+248 § único c/c 210,Fugir o condutor à ação policial.,40,4134150,99.96679984611379
+244 II,Conduzir motocicleta/motoneta/ciclomotor transportando pas. fora do assento,40,4134150,99.96679984611379
+205,Ultrapassar veículo em movimento que integre cortejo/desfile/formação militar,39,4134189,99.96774289491317
+181 XIV,Estacionar nos viadutos,38,4134227,99.96866176297411
+181 III,Estacionar afastado da guia da calçada (meio-fio) a mais de 1m,35,4134262,99.96950808881972
+220 V,Deixar reduzir velocidade nas vias rurais cuja faixa domínio não esteja cercada,33,4134361,99.97190198192587
+231 III,"Transitar com veículo produzindo fumaça, gases ou partículas em desac c/ Contran",33,4134361,99.97190198192587
+220 XIII,Deixar de reduzir veloc de forma compatível c/ segurança ao ultrapassar ciclista,33,4134361,99.97190198192587
+181 V,Estacionar na pista de rolamento das vias de trânsito rápido,32,4134425,99.9734495491864
+231 II a,Transitar com veículo arrastando a carga que esteja transportando,32,4134425,99.9734495491864
+162 VI,Dirigir veículo sem usar aparelho auxiliar de audição,31,4134456,99.97419915207823
+182 VI,Parar no passeio,29,4134543,99.97630287632302
+187 I,Transitar em local/horário não permitido pela regulamentação -rodízio,29,4134543,99.97630287632302
+"181, XX",Estacionar nas vagas reserv as pess c/ deficiencia s/ credencial,29,4134543,99.97630287632302
+244 VIII c/c § 1º,Conduzir ciclo transportando carga incompatível,28,4134599,99.977656997676
+234,Falsificar ou adulterar documento de identificação do veículo,28,4134599,99.977656997676
+182-V,Parar na pista de rolamento das vias de trânsito rápido,27,4134653,99.97896275755207
+203 II,Ultrapassar pela contramão nas faixas de pedestre,27,4134653,99.97896275755207
+214 IV,Deixar de dar preferência a pedestre/veic ñ mot qdo iniciada travessia s/sinaliz,26,4134705,99.98022015595124
+220 XIV,Deixar de reduzir a velocidade nas proximidades de escolas,26,4134705,99.98022015595124
+231 I,"Transitar com o veículo danificando a via, suas instalações e equipamentos",25,4134730,99.9808246744124
+244 VII c/c § 1º,Conduzir ciclo sem segurar o guidom com ambas as mãos,24,4134778,99.98198534985781
+227 V,Usar buzina em desacordo c/ os padrões e frequências estabelecidas pelo Contran,24,4134778,99.98198534985781
+181 XII,Estacionar na área de cruzamento de vias,23,4134870,99.98420997779482
+181 XVII,Estacionar em desacordo com a regulamentação - vaga de carga/descarga,23,4134870,99.98420997779482
+234,Falsificar ou adulterar documento de habilitação,23,4134870,99.98420997779482
+"181, XX",Estacionar nas vagas reserv a idosos s/ credencial,23,4134870,99.98420997779482
+230 I,Conduzir o veículo com o selo violado/falsificado,22,4134936,99.98580590653225
+171,Usar veículo para arremessar sobre os veículos água ou detritos,22,4134936,99.98580590653225
+171,Usar veículo para arremessar sobre os pedestres água ou detritos,22,4134936,99.98580590653225
+181 XVII,Estacionar em desacordo com a regulamentação - estacionamento rotativo,21,4135062,99.98885267957644
+212,Deixar de parar o veículo antes de transpor linha férrea,21,4135062,99.98885267957644
+225 II,Deixar de sinalizar a via p/ tornar visível o local qdo a carga for derramada,21,4135062,99.98885267957644
+249,Deixar de manter acesas à noite as luzes posição qdo o veículo estiver parado,21,4135062,99.98885267957644
+182 VI,Parar nas ilhas ou refúgios,21,4135062,99.98885267957644
+214 II,Deixar de dar preferência a pedestre/veic ñ mot que ñ haja concluído a travessia,21,4135062,99.98885267957644
+220 X,Deixar de reduzir veloc qdo pavimento se apresentar escorreg/defeituoso/avariado,20,4135082,99.98933629434535
+163 c/c 162 III,Entregar veículo a pessoa com PPD de categoria diferente da do veículo,17,4135099,99.98974736689894
+174,Promover na via eventos organizados sem permissão,16,4135131,99.9905211505292
+227 III,Usar buzina entre as vinte e duas e as seis horas,16,4135131,99.9905211505292
+182 IV,Parar em desacordo com as posições estabelecidas no CTB,15,4135146,99.9908838616059
+220 IX,Deixar de reduzir a velocidade quando houver má visibilidade,14,4135202,99.99223798295887
+203 IV,Ultrapassar pela contramão veículo parado em fila junto a cancela/porteira,14,4135202,99.99223798295887
+164 c/c 162 VII,Permitir posse e condução do veículo por pessoa sem possuir curso especificos obrigatorios,14,4135202,99.99223798295887
+250 I c,"Em mov de dia, deixar de manter acesa luz baixa veíc transp coletivo faixas/pistas destinadas",14,4135202,99.99223798295887
+176 IV,"Deixar o cond envolvido em acid, de remover o veíc local qdo determ polic/agente",13,4135267,99.99380973095785
+252 II,Dirigir o veículo transport pessoas à sua esquerda ou entre os braços e pernas,13,4135267,99.99380973095785
+164 c/c 162 VI,Permitir posse/condução do veículo a pessoa s/ usar aparelho auxiliar de audição,13,4135267,99.99380973095785
+182 XI,Parar o veículo sobre ciclovia ou ciclofaixa,13,4135267,99.99380973095785
+181 XVII,Estacionar em desacordo com a regulamentação - vaga de curta duração,13,4135267,99.99380973095785
+163 c/c 162 VII,Entregar veiculo a pessoa sem possuir curso especializados obrigatorios,12,4135303,99.9946802375419
+163 c/c 162 VI,Entregar veíc pessoa s/ adaptações impostas concessão/renovação licença conduzir,12,4135303,99.9946802375419
+200,Ultrap pela direita veíc transp colet/escolar parado para emb/desemb passageiros,12,4135303,99.9946802375419
+162 VI,Dirigir veículo sem usar aparelho auxiliar de prótese física,11,4135314,99.9949462256648
+230 XIX,Conduzir o veículo sem acionar o limpador de pára-brisa sob chuva,10,4135334,99.99542984043373
+244 § 1 a,Conduzir ciclo transportando passageiro fora da garupa/assento a ele destinado,10,4135334,99.99542984043373
+220 XIV,Deixar de reduzir a velocidade nas proximidades de hospitais,9,4135370,99.99630034701778
+182 VIII,Parar nas pontes,9,4135370,99.99630034701778
+181 XVII,Estacionar em desacordo com a regulamentação - ponto ou vaga de táxi,9,4135370,99.99630034701778
+215 I b,"Deixar de dar prefer em interseção não sinalizada, a veículo que vier da direita",9,4135370,99.99630034701778
+214 V,Deixar de dar preferência a pedestre/veic não mot atravessando a via transversal,8,4135394,99.99688068474047
+181 II,Estacionar afastado da guia da calçada (meio-fio) de 50cm a 1m,8,4135394,99.99688068474047
+181 XVI,"Estacionar aclive/declive ñ freado e sem calço segurança, PBT superior a 3500kg",8,4135394,99.99688068474047
+182 VIII,Parar nos viadutos,7,4135422,99.99755774541697
+220 XI,Deixar de reduzir a velocidade à aproximação de animais na pista,7,4135422,99.99755774541697
+182 III,Parar afastado da guia da calçada (meio-fio) a mais de 1m,7,4135422,99.99755774541697
+182 I,Parar nas esquinas e a menos 5m do bordo do alinhamento da via transversal,7,4135422,99.99755774541697
+222,Deixar de manter ligado em emerg sist ilum vermelha intermitente ainda q parado,6,4135440,99.997992998709
+244 § 1 c,Conduzir ciclo transportando criança s/ condição de cuidar própria segurança,6,4135440,99.997992998709
+211,"Ultrapassar veículos motorizados em fila, parados em razão de cancela",6,4135440,99.997992998709
+202 II,Ultrapassar em passagem de nível,5,4135460,99.9984766134779
+226,Deixar de retirar qualquer objeto utilizado para sinalização temporária da via,5,4135460,99.9984766134779
+230 XVIII,Conduzir o veículo reprovado na avaliação de emissão de poluentes e ruído,5,4135460,99.9984766134779
+250 IV,"Em movimento, deixar veículo de transporte púb. coletivo passageiros de manter a porta fechada",5,4135460,99.9984766134779
+249,Deixar de manter acesas à noite as luzes de posição veic fazendo carga/descarga,4,4135476,99.99886350529304
+244 III c/c § 1º,Conduzir ciclo fazendo malabarismo ou equilibrando-se em uma roda,4,4135476,99.99886350529304
+213 II,Deixar de parar sempre que a marcha for interceptada por agrupamento de veículos,4,4135476,99.99886350529304
+217,Entrar/sair de fila de veículos estacionados sem dar pref a pedestres/veículos,4,4135476,99.99886350529304
+231 IX,Transitar com o veículo desligado em declive,3,4135503,99.99951638523108
+177,"Deixar o cond de prestar socorro vítima acid de trânsito, qdo solicit p/ agente",3,4135503,99.99951638523108
+206 III,Executar operação de retorno passando por cima de faixa de veíc não motorizados,3,4135503,99.99951638523108
+231 IX,Transitar com o veículo desengrenado em declive,3,4135503,99.99951638523108
+183,Parar sobre faixa de pedestres na mudança de sinal luminoso (fisc eletrônica),3,4135503,99.99951638523108
+230 XVIII,Conduzir o veículo reprovado na avaliação de inspeção de segurança,3,4135503,99.99951638523108
+179 II,Fazer/deixar que se faça reparo em veíc nas vias (q não rodovia/transito rapido),3,4135503,99.99951638523108
+181 XIV,Estacionar nos túneis,3,4135503,99.99951638523108
+182 II,Parar afastado da guia da calçada (meio-fio) de 50cm a 1m,3,4135503,99.99951638523108
+174,Promover na via competição sem permissão,2,4135515,99.99980655409243
+164 c/c 162 VI,Permitir posse/condução do veículo a pessoa sem usar aparelho de prótese física,2,4135515,99.99980655409243
+163 c/c 162 VI,Entregar o veículo a pessoa sem usar aparelho auxiliar de audição,2,4135515,99.99980655409243
+206 II,Executar operação de retorno nos túneis,2,4135515,99.99980655409243
+203 III,Ultrapassar pela contramão nos túneis,2,4135515,99.99980655409243
+230 XVII,Conduzir o veículo com cortinas ou persianas fechadas,2,4135515,99.99980655409243
+163 c/c 162 VII,Entregar veiculo a pessoa sem possuir curso especificos obrigatorios,1,4135523,100.0
+247,Deixar de conduzir pelo bordo da pista em fila única veículo de tração animal,1,4135523,100.0
+250 IV,"Em movimento, deixar o veículo de escolares de manter a porta fechada",1,4135523,100.0
+252 VII,Dirigir veículo realizando cobrança de tarifa com veículo em movimento.,1,4135523,100.0
+NA,2016-11-01,1,4135523,100.0
+213 I,Deixar de parar sempre que a marcha for interceptada por agrupamento de pessoas,1,4135523,100.0
+214 III,Deixar de dar preferência a pedestre port deficiência fís/criança/idoso/gestante,1,4135523,100.0
+163 c/c 162 VI,Entregar o veículo a pessoa sem aparelho de prótese física,1,4135523,100.0
