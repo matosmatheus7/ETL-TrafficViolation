@@ -25,6 +25,9 @@ df_violations_per_state = pd.read_csv(r'.\datalake\gold\violations_per_state_202
 df_violations_per_day = pd.read_csv(r'.\datalake\gold\violations_per_day_2023.csv')
 month_dictionary = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai']
 frequent_infractions = pd.read_csv(r'.\datalake\gold\frequent_infractions_2023.csv')
+df_time_acum = pd.read_csv(r'.\datalake\gold\time_infractions_2023.csv')
+df_city_acum = pd.read_csv(r'.\datalake\gold\city_infractions_2023.csv')
+
 
 layout = html.Div(
 
@@ -49,7 +52,7 @@ layout = html.Div(
                     className='banner-title',
                     children=[
                         html.H5(
-                            ['2023 Traffic Violations Analysis'], 
+                            ['2022 Traffic Violations Analysis'], 
                             style={
                                 'font-family':'open sans semi bold,sans-serif', 
                                 'font-weight': '500'
@@ -96,6 +99,40 @@ layout = html.Div(
                                 'border': '#D9E3F1 solid 0.2rem' 
                             },
                             children=[
+
+                                html.Div(
+                                    className='top',
+                                    children=[
+                                        html.H4(
+                                            [f'{df_city_acum.iat[0,0]}'],
+                                            style={
+                                                'font-size': '1.5em',
+                                                'line-height': '1.6',
+                                                'font-weight': '400',
+                                                'color': '#378DFC',
+                                                'border-radius': '3px',
+                                                'padding': '12px 8px 12px 14px',
+                                                'border': '1px solid #D3D3D3',
+                                                'background': '#D9E3F1',
+                                                'box-sizing': 'border-box',
+                                                'width': '100%',
+                                                'display': 'flex',
+                                                'flex-direction': 'row',
+                                                'justify-content': 'center',
+                                            }
+                                        ),
+                                        html.H5(
+                                            ['City Highest Infractions'], 
+                                            style={
+                                                'line-height': '1.6',
+                                                'box-sizing': 'border-box',
+                                                'margin': '1rem',
+                                                'color':'black',
+                                                'font-weight': '500',
+                                                'align-self': 'flex-start',
+                                            }),
+                                    ]
+                                ),
 
                                 html.Div(
                                     className='top',
@@ -323,7 +360,7 @@ layout = html.Div(
                                                 df_pivot_violations_month_state,
                                                 height=400, 
                                                 width=1050,
-                                                title=' Heatmap Monthly Traffic Violations by State 2023'),
+                                                title=' Heatmap Monthly Traffic Violations by State 2022'),
                                                 style={'margin-top': '0%','margin-left':'10px'}),
                                             ]
                                         ),
@@ -376,6 +413,29 @@ layout = html.Div(
                                                 style={'margin-top': '0%','margin-left':'10px'}),
                                             ]
                                         ),
+                                        html.Div(
+                                            className='inner-div',
+                                            style={
+                                                'margin-top': '6%',
+                                                'padding': '0',
+                                                'width': '100%', 
+                                                'height': '350px',
+                                                'border-top': '#D9E3F1 solid 0.2rem'
+                                            },
+                                            children=[
+                                                dcc.Graph(id='funnel-fig2',
+                                                figure=
+                                                px.funnel(
+                                                    df_time_acum[ df_time_acum['Acum'] < 0.5 ],
+                                                    y='Time',
+                                                    height=400, 
+                                                    width=1050,
+                                                    x='Violations_Count',
+                                                    title='Most Common Times that Offenses were Committed (24 hours Format on BRT Time zone)'
+                                                ),
+                                                style={'margin-top': '0%','margin-left':'10px'}),
+                                            ]
+                                        ),
                             ]
                         )
                     ]
@@ -384,4 +444,3 @@ layout = html.Div(
         )
     ],
 )
-
