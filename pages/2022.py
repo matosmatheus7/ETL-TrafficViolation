@@ -119,7 +119,7 @@ layout = html.Div(
                                             }
                                         ),
                                         html.H5(
-                                            ['City Highest Infractions'], 
+                                            ['City with Highest Infractions'], 
                                             style={
                                                 'line-height': '1.6',
                                                 'box-sizing': 'border-box',
