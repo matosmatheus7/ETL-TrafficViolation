@@ -52,7 +52,7 @@ layout = html.Div(
                     className='banner-title',
                     children=[
                         html.H5(
-                            ['2022 Traffic Violations Analysis'], 
+                            ['2023 Traffic Violations Analysis'], 
                             style={
                                 'font-family':'open sans semi bold,sans-serif', 
                                 'font-weight': '500'
