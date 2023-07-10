@@ -5,6 +5,8 @@ This project, developed during the Data Viking event, aims to provide valuable i
 
 [Data Viking Event](https://lnkd.in/dbJm4Utf)
 
+![Dashboard Screebshot](https://i.ibb.co/z4MxB0f/Screenshot-2023-07-10-085835.png)
+
 ## Project Enhancements
 
 Some enhancements have been made to the original codebase:
